@@ -1,6 +1,6 @@
 # estudo-DIO_banco_Amazonia
 
-programa de conta bancária desenvolvido em Python nas aulas.
+programa de conta bancária com funções desenvolvido em Python nas aulas.
 
 Acrescentei cor vermelha nas mensagens de falha. 
 Acrescentei print do saldo após depósitos e saques efetuados.
