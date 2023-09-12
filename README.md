@@ -8,4 +8,5 @@ Acrescentei mensagem após depósito e saques efetuados.
 
 Passei os inputs para uppercase para aceitar maiusculo ou minusculo.
 
-Acrescentei cor verde no menu 
+Acrescentei cor verde no menu.
+Menu está na horizontal.
